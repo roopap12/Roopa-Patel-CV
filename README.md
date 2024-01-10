@@ -96,3 +96,20 @@ Certificate in Web Development and AI (Artificial Intelligence) | 2023
 - Passionate about mastering JavaScript for backend development.
 - Keen on learning diverse coding languages.
 - Dedicated to integrating software and keeping up with the latest tech trends for optimal backend performance.
+
+  ## Project List
+
+1. [Ecommerce Shop](https://github.com/roopap12/Ecommerce-Shop)
+2. [Meditation Mobile App](https://github.com/roopap12/meditation-mobile-app)
+3. [Exobrain](https://github.com/roopap12/exobrain)
+4. [Summariser](https://github.com/roopap12/summariser)
+5. [Podcaster](https://github.com/roopap12/podcaster)
+6. [LLM CLI Project](https://github.com/roopap12/llm-cli-project)
+7. [LLM Chat](https://github.com/roopap12/llm-chat)
+8. [React Boilerplate Vite for Meetup Project](https://github.com/roopap12/react-boilerplate-vite-for-meetup-project)
+9. [Community Registration Form](https://github.com/roopap12/Community_Registration-Form)
+10. [Sprint 2 Expanding Cards](https://github.com/roopap12/sprint-2-expanding-cards)
+11. [Stopwatch](https://github.com/roopap12/stopwatch)
+12. [City Explorer](https://github.com/Hub-2023/sprint-10-city-explorer/tree/roopa)
+13. [Guess That Pokemon](https://github.com/Hub-2023/sprint-5-guess-that-pokemon/tree/Roopa)
+14. [Pixelated](https://github.com/Hub-2023/sprint-5-pixelated/tree/roopa)
