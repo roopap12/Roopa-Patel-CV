@@ -93,4 +93,6 @@ Certificate in Web Development and AI (Artificial Intelligence) | 2023
 - English, Hindi, Gujarati
 
 **Interests:**
-- Passiona
+- Passionate about mastering JavaScript for backend development.
+- Keen on learning diverse coding languages.
+- Dedicated to integrating software and keeping up with the latest tech trends for optimal backend performance.
