@@ -77,12 +77,14 @@ Proficient in:
 - Bachelor in Accounting & Auditing / MS University / Baroda, India | 1984-1986
 - Diploma in Taxation / AUT / Auckland | 2009
 
-## Achievements/Awards/Honours
+## Achievements/Awards/Honours/Certification
 
 **Take2 | Auckland, New Zealand**
+**Coursera | Google**
 
-Certificate in Web Development and AI (Artificial Intelligence) | 2023
-
+- Certificate in Web Development and AI (Artificial Intelligence) | 2023 
+- Certificate in Cybersecurity in Foundation | 2024 [View Certificate](https://drive.google.com/drive/folders/1o84RqFox58ikAz3KB7f7g559QBjTh_uF)
+- Certificate in Cybersecurity in Play it Safe | 2024 [View Certificate](https://drive.google.com/drive/folders/1o-GsQc6dsILjqMBDfESzIOJ5HiY78QuW)
 - Completed 1,300 hours of web development training, facilitated by Take2 and tech industry partners using agile methodologies.
   
 **AI - Artificial Intelligence course - Dev Academy**
